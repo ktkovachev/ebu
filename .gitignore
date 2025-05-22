@@ -4,3 +4,6 @@ autom4te.cache/
 libtool
 config.log
 *~
+ebu/.libs/libebu.a
+libebutils/libebutils.a
+po-ebutils/ja.mo
